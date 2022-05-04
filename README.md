@@ -1,2 +1,3 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de projeto DIO  - Git/Github
+
+# Repositório do Desafio de projeto sobre git/gihub do bootcamp carrefour DIO.
+## Desafio de projeto DIO  - Git/Github
